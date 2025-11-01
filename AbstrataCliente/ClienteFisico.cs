@@ -21,8 +21,8 @@ namespace AbstrataCliente
         }
         
         public override void VerifiqueIdade(){
-            if (Idade >= 18 && <= 45)
-                System.Console.WriteLine("Cliete Fisíco!");
+            if (Idade >= 18 && Idade <= 45)
+                Console.WriteLine("Cliete Fisíco!");
         }
     }
 }
