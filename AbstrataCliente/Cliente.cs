@@ -9,16 +9,16 @@ namespace AbstrataCliente
     {
         protected int codigo;
         protected string? nome;
-        protected int? idade;
+        protected int idade;
         public int Codigo
         {
             get { return codigo; }
             set { codigo = value; }
         }
-        public string Nome
+        public string? Nome
         {
-            get { return codigo; }
-            set { codigo = value; }
+            get { return nome; }
+            set { nome = value; }
         }
         public int Idade
         {
@@ -27,15 +27,18 @@ namespace AbstrataCliente
         }
         public virtual void Mostrar()
         {
-            Console.WriteLine("Codigo" + Codigo + "\tNome" + Nome +
-             "\tIdade" + Idade);
+            Console.WriteLine("Codigo: " + Codigo + "\tNome: " + Nome +
+             "\tIdade: " + Idade);
         }
 
-        public Cliente(int codigo, string nome)
+        public Cliente(int codigo, string nome, int idade)
         {
             Codigo = codigo;
             Nome = nome;
             Idade = idade;
         }
+        // O método abstrato NÃO PODE ter nenhuma linha 
+        // de lógica de programção
+        public abstract void VerifiqueIdade();
     }
 }

@@ -2,3 +2,14 @@ C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCl
 C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfoInputs.cache
 C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfo.cs
 C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.sourcelink.json
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.exe
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.deps.json
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.runtimeconfig.json
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.dll
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.pdb
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.dll
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\refint\AbstrataCliente.dll
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.pdb
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\ref\AbstrataCliente.dll
