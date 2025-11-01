@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\ComposicaoNf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\ComposicaoNf.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\ComposicaoNf.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\ComposicaoNf.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\bin\Debug\net9.0\ComposicaoNf.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\bin\Debug\net9.0\ComposicaoNf.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\bin\Debug\net9.0\ComposicaoNf.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\bin\Debug\net9.0\ComposicaoNf.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\bin\Debug\net9.0\ComposicaoNf.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\ComposicaoNf.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\refint\ComposicaoNf.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\ComposicaoNf.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\ComposicaoNf.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ComposicaoNf\obj\Debug\net9.0\ref\ComposicaoNf.dll

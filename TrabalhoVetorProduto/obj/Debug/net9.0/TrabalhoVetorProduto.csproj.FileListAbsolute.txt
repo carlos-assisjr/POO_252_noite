@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\TrabalhoVetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\TrabalhoVetorProduto.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\TrabalhoVetorProduto.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\TrabalhoVetorProduto.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\bin\Debug\net9.0\TrabalhoVetorProduto.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\bin\Debug\net9.0\TrabalhoVetorProduto.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\bin\Debug\net9.0\TrabalhoVetorProduto.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\bin\Debug\net9.0\TrabalhoVetorProduto.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\bin\Debug\net9.0\TrabalhoVetorProduto.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\TrabalhoVetorProduto.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\refint\TrabalhoVetorProduto.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\TrabalhoVetorProduto.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\TrabalhoVetorProduto.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\TrabalhoVetorProduto\obj\Debug\net9.0\ref\TrabalhoVetorProduto.dll

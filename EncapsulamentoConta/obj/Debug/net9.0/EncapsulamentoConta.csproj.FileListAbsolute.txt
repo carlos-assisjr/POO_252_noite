@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\EncapsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\EncapsulamentoConta.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\EncapsulamentoConta.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\EncapsulamentoConta.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\bin\Debug\net9.0\EncapsulamentoConta.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\bin\Debug\net9.0\EncapsulamentoConta.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\bin\Debug\net9.0\EncapsulamentoConta.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\bin\Debug\net9.0\EncapsulamentoConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\bin\Debug\net9.0\EncapsulamentoConta.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\EncapsulamentoConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\refint\EncapsulamentoConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\EncapsulamentoConta.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\EncapsulamentoConta.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoConta\obj\Debug\net9.0\ref\EncapsulamentoConta.dll

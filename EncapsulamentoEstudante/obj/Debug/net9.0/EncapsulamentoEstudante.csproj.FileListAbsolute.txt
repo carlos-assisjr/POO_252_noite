@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\refint\EncapsulamentoEstudante.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\ref\EncapsulamentoEstudante.dll

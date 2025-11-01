@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\refint\ClasseFuncionario.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseFuncionario\obj\Debug\net8.0\ref\ClasseFuncionario.dll

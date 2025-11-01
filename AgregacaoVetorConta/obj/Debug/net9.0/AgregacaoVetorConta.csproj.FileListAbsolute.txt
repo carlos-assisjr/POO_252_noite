@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\bin\Debug\net9.0\AgregacaoVetorConta.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\bin\Debug\net9.0\AgregacaoVetorConta.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\bin\Debug\net9.0\AgregacaoVetorConta.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\bin\Debug\net9.0\AgregacaoVetorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\bin\Debug\net9.0\AgregacaoVetorConta.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\AgregacaoVetorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\AgregacaoVetorConta.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\AgregacaoVetorConta.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\AgregacaoVetorConta.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\AgregacaoVetorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\refint\AgregacaoVetorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\AgregacaoVetorConta.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\AgregacaoVetorConta.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\AgregacaoVetorConta\obj\Debug\net9.0\ref\AgregacaoVetorConta.dll

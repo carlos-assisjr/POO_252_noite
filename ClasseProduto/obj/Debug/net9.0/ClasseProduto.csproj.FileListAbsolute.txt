@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\bin\Debug\net9.0\ClasseProduto.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\bin\Debug\net9.0\ClasseProduto.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\bin\Debug\net9.0\ClasseProduto.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\bin\Debug\net9.0\ClasseProduto.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\bin\Debug\net9.0\ClasseProduto.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\ClasseProduto.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\ClasseProduto.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\ClasseProduto.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\ClasseProduto.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\refint\ClasseProduto.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\ClasseProduto.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\ClasseProduto.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ClasseProduto\obj\Debug\net9.0\ref\ClasseProduto.dll

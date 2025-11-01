@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\bin\Debug\net9.0\ConstrutorConta.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\bin\Debug\net9.0\ConstrutorConta.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\bin\Debug\net9.0\ConstrutorConta.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\bin\Debug\net9.0\ConstrutorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\bin\Debug\net9.0\ConstrutorConta.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\ConstrutorConta.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\ConstrutorConta.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\ConstrutorConta.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\ConstrutorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\refint\ConstrutorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\ConstrutorConta.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\ConstrutorConta.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\ConstrutorConta\obj\Debug\net9.0\ref\ConstrutorConta.dll

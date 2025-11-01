@@ -1,0 +1,14 @@
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\bin\Debug\net9.0\VetorConta.exe
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\bin\Debug\net9.0\VetorConta.deps.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\bin\Debug\net9.0\VetorConta.runtimeconfig.json
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\bin\Debug\net9.0\VetorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\bin\Debug\net9.0\VetorConta.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\VetorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\VetorConta.AssemblyInfoInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\VetorConta.AssemblyInfo.cs
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\VetorConta.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\VetorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\refint\VetorConta.dll
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\VetorConta.pdb
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\VetorConta.genruntimeconfig.cache
+C:\Users\Paulo Ortiz\Desktop\POO\POO_252_noite\VetorConta\obj\Debug\net9.0\ref\VetorConta.dll

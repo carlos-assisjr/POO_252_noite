@@ -1,0 +1,4 @@
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO_252_noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.csproj.CoreCompileInputs.cache
