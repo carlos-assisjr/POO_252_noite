@@ -27,8 +27,12 @@ namespace HerancaProduto
             get { return preco; }
             set { preco = value; }
         }
-        
-        
-        
+        public virtual void Mostrar()
+        {
+            Console.WriteLine("-----------------------------------------------");
+            Console.WriteLine("Código: " + Codigo + "\tNome: " + Nome + "\tPreço: " + Preco);
+        }
+
+
     }
 }

@@ -27,8 +27,12 @@ namespace HerancaProduto
             get { return lote; }
             set { lote = value; }
         }
-        
-        
+        public override void Mostrar()
+        {
+            base.Mostrar();//apresente código, nome e preço
+            Console.WriteLine($"Data de Fabricação: {DataFabricacao}\tData de Validade: {DataValidade}\tLote: {Lote}");
+            Console.WriteLine("-----------------------------------------------");
+        }
         
     }
 }
